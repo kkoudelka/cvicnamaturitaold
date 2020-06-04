@@ -1,0 +1,15 @@
+C:\Users\kkoud\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\kkoud\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\kkoud\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\MainWindow.g.cs
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\App.g.cs
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc_MarkupCompile.cache
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc_MarkupCompile.lref
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\MainWindow.baml
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.g.resources
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\kkoud\source\repos\calc\calc\obj\Debug\calc.pdb
